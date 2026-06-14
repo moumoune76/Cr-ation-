@@ -1,0 +1,48 @@
+HEADER{
+background:BLUE;
+text-align:CENTER;	
+	
+}
+MAIN{
+	background-color:gray;
+	text-align:CENTER;
+	padding:5PX;
+text-decoration:none;
+padding-bottom:10PX;
+color:black;
+
+}
+OL{
+	background-color:BLUE;
+	text-align:CENTER;
+	COLOR:BLACK;
+	font-size:20PX;
+	font-family:italic;
+	margin-right:300PX;
+		margin-left:300PX;
+		BORDER-RADIUS:30PX
+}
+FORM{
+	background-color:gray;
+	text-align:CENTER;
+	border:1;
+	margin-left:300PX;
+	margin-right:300PX;
+	BORDER-RADIUS:30PX;
+}
+FOOTER{
+	background-color:BLUE;
+	text-align:CENTER;
+	padding:50PX;
+	
+}
+BUTTON{
+	background-color:BLUE;
+	border:BLUE;
+	BORDER-RADIUS:25PX;
+}
+IMG{
+	width:50PX;
+	height:50PX;
+	BORDER-RADIUS:25PX;
+}
